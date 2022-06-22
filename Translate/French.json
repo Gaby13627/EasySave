@@ -1,0 +1,20 @@
+{
+  "BackUpList": "liste des Sauvegarde",
+  "EnterPath": "entrer le chemain du fichier source",
+  "OptionDeleteModifyExit": "Options (1) Supprimer | (2) Modifier | (3) Quitter",
+  "BackUpName": "entrer le nom de la sauvegarde, séparé par <,>",
+  "End": "fin du programme, appuyer sur n'importe quelle touche",
+  "IncorrectInput": "l'entrer saisi n'est pas correcte, appuyer sur n'importe quelle touche",
+  "Continue": "appyer sur entrer pour continuer",
+  "LanguageType": "Selectionnner une langue :",
+  "homePage": "Home Page",
+  "OptionListe": "Choisir une option dans la liste :",
+  "Create": "Cree une sauvegarde",
+  "Display": "Supprimer une sauvegarde",
+  "Exit": "Quitter",
+  "EnterOption": "Entrer une option",
+  "StopProgramme": "voulez vous mettre fin au programme ?",
+  "YesNo": "oui | non"
+}
+
+

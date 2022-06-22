@@ -1,0 +1,60 @@
+//------------------------ Location 1 : -------------------------//
+{
+Name : 3;
+SourceFilePath : D:\Nouveau dossier\;
+TargetFilePath : D:\t\;
+State : ACTIVE;
+TotalFilesToCopy : 10;
+TotalFilesSize : 0;
+NbFilesLeftToDo : 10;
+Progression : 0;
+Time : 11/25/2021 22:57;
+}
+//------------------------ Location 2 : -------------------------//
+{
+Name : Test;
+SourceFilePath : D:\Test\;
+TargetFilePath : D:\t\;
+State : ACTIVE;
+TotalFilesToCopy : 45;
+TotalFilesSize : 0;
+NbFilesLeftToDo : 15;
+Progression : 67;
+Time : 11/26/2021 08:41;
+}
+//------------------------ Location 3 : -------------------------//
+{
+Name : Backup test;
+SourceFilePath : D:\Test\;
+TargetFilePath : D:\t\;
+State : END;
+TotalFilesToCopy : 45;
+TotalFilesSize : 0;
+NbFilesLeftToDo : 0;
+Progression : 100;
+Time : 11/26/2021 15:22;
+}
+//------------------------ Location 4 : -------------------------//
+{
+Name : Backup test;
+SourceFilePath : D:\Test\;
+TargetFilePath : D:\t\;
+State : ACTIVE;
+TotalFilesToCopy : 45;
+TotalFilesSize : 0;
+NbFilesLeftToDo : 45;
+Progression : 0;
+Time : 11/26/2021 15:22;
+}
+//------------------------ Location 5 : -------------------------//
+{
+Name : Empty location;
+SourceFilePath : 
+TargetFilePath : 
+State : 
+TotalFilesToCopy : 
+TotalFilesSize : 
+NbFilesLeftToDo : 
+Progression : 
+Time : 
+}

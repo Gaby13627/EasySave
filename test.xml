@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root type="object">
+  <BackUp type="array">
+    <item type="object">
+      <Name type="string">Save3</Name>
+      <SourceFilePath type="string"></SourceFilePath>
+      <TargetFilePath type="string"></TargetFilePath>
+      <State type="string">END</State>
+      <TotalFilesToCopy type="number">0</TotalFilesToCopy>
+      <TotalFilesSize type="number">0</TotalFilesSize>
+      <NbFilesLeftToDo type="number">0</NbFilesLeftToDo>
+      <Progression type="number">0</Progression>
+    </item>
+    <item type="object"></item>
+  </BackUp>
+</root>

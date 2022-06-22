@@ -1,0 +1,19 @@
+
+  {
+    "BackUpList": "Back-up List",
+    "EnterPath": "Enter path",
+    "OptionDeleteModifyExit": "Options (1) Delete | (2) Modify | (3) Exit",
+    "BackUpName": "Enter back-up name, split with <,>",
+    "End": "End, press a key",
+    "IncorrectInput": "incorrect input, press enter",
+    "Continue": "Press enter to continue",
+    "LanguageType": "Select language :",
+    "homePage": "Home Page",
+    "OptionListe": "Choose an option from the following list :",
+    "Create": "Create back-up",
+    "Display": "Display back-up list",
+    "Exit": "Exit",
+    "EnterOption": "Enter your option",
+    "StopProgramme": "Do you want to stop the program ?",
+    "YesNo": "yes | no"
+  }
